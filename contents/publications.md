@@ -3,6 +3,8 @@
 Have you published a poster at the MacGyver session? Please upload it to Zenodo and submit it to the MacGyver community here: https://zenodo.org/communities/macgyver
 
 #### Journal Publications for Projects Featured in MacGyver Sessions:
+- Droujko, Jessica et al. Ötz-T: 3D-printed open-source turbidity sensor with Arduino shield for suspended sediment monitoring
+ HardwareX, Volume 13, e00395. DOI: 10.1016/j.ohx.2023.e00395
 - Gibbons, J., Collins, K., Kazdan, D., & Frissell, N. (2022). Grape Version 1: First prototype of the low-cost personal space weather station receiver. HardwareX, 11, e00289. https://doi.org/10.1016/j.ohx.2022.e00289
 - Kim, Hyomin, Witten, David, Madey, Julius, Frissell, Nathaniel, Gibbons, John, Engelke, William, Liddle, Anderson, Muscolino, Nicholas, Visone, Joseph, & Cao, Zhaoshu. Citizen science: Development of a low-cost magnetometer system for a coordinated space weather monitoring. HardwareX, 20 (C). Retrieved from https://par.nsf.gov/biblio/10585457. https://doi.org/10.1016/j.ohx.2024.e00580
 
